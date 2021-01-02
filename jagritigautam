@@ -1,0 +1,10 @@
++ public class main {
++ public static void main(string[] args)}
++ string s1 = "jagriti";
++ string s2 = "jagriti";
++ system.out.print(s1.compareTo(s2));
++ }
++ }
++
++
++
